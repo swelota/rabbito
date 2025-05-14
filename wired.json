@@ -1,0 +1,9 @@
+{
+    "WiredEnable": false,
+    "WiredLang": ["Russian"],
+    "WiredTimes": ["Yekaterinburg"],
+    "WiredLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
