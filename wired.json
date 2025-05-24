@@ -1,9 +1,9 @@
 {
-    "WiredEnable": false,
-    "WiredLang": ["Russian"],
-    "WiredTimes": ["Yekaterinburg"],
+    "WiredEnable": true,
+    "WiredLang": ["Portuguese"],
+    "WiredTimes": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "WiredLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wevkk.life/v3/2618/fortune-rabbit?p=h83x"]}
     ]
  }
