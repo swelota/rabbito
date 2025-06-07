@@ -1,0 +1,9 @@
+{
+    "ResidentEnable": false,
+    "ResidentLang": ["Portuguese"],
+    "ResidentTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "ResidentLink": 
+    [ 
+          { "Lang":"Portuguese", "Links": [""]}
+    ]
+ }
