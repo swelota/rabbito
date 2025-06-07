@@ -1,0 +1,9 @@
+{
+  "CosmicEnb": false,
+  "CosmicLocale": ["Russian"],
+  "CosmicTime": ["Jakarta", "Makassar", "Jayapura"],
+  "CosmicLinks":
+  [
+    { "Lang":"Russian", "Link": [""]}
+  ]
+}
